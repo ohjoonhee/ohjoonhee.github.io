@@ -1,9 +1,9 @@
 ---
 layout: tags
-title: Tags
+title: Hashtags
 permalink: /tags/
 menu: true
-order: 4
+# order: 4
 description: >
-  List of all categories & tags of blog.
+  List of all and hashtags of posts and projects.
 ---
