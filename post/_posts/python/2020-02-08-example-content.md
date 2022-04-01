@@ -1,5 +1,5 @@
 ---
-# category: [post]
+tags: [python, c++]
 ---
 
 # Hello
