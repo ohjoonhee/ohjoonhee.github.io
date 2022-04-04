@@ -9,7 +9,13 @@ tag: [python, cpp]
 
 ## It's h2
 
-sdfadfas
+```cpp
+// file: "main.cpp"
+#include <stdio.h>
+
+int main(){
+}
+```
 
 ### h3
 asdfasdf

@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 JoonLog
+title:                 DevLog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -92,7 +92,8 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+# accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          rgb(25,55,71)
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
