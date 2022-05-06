@@ -11,7 +11,6 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 tags: [python, pytorch]
-logo: /assets/img/logo_black.png
 comments: true
 ---
 

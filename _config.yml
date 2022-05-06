@@ -57,6 +57,8 @@ menu:
   #   url:               /resume/
   # - title:             Documentation
   #   url:               /docs/
+  - title:             Paper Review
+    url:               /paper-review/
   - title:             Hashtags
     url:               /tags/
 
@@ -67,8 +69,8 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  # - title:             CHANGELOG
+  #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022. All rights reserved.
@@ -142,10 +144,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
